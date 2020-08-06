@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 05, 2020 
+### Day 1: August 05, 2020 
 
 **Today's Progress**: Worked on React Components through a Notes Keeper App
 
@@ -8,3 +8,8 @@
 
 **Link to work:**
 
+Day 2: August 06,2020
+
+Today: Building a Gallery App
+
+A practice on React
